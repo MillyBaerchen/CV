@@ -10,9 +10,11 @@ hr {
 
        }
 
-img {
+img 
+background-color:white;
 border-radius: 100;
 }
 .circular {
+background-color:white;
 border-radius: 100;
 }
